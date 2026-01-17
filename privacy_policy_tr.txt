@@ -1,0 +1,31 @@
+Gizlilik Politikası
+
+Cryptot, gizliliğinize saygı duyar. Bu politika, verilerin nasıl toplandığını ve kullanıldığını açıklar.
+
+Toplanan Veriler
+- Hesap bilgileri (varsa)
+- Uygulama kullanım verileri (analitik, hata kayıtları)
+- Cihaz bilgileri (işletim sistemi, dil)
+- Bildirim tercihleri
+
+Toplanmayan Veriler
+- Finansal kişisel bilgiler
+- Cüzdan özel anahtarları
+- Banka veya ödeme bilgileri (Google Play tarafından yönetilir)
+
+Verilerin Kullanımı
+- Uygulama performansını iyileştirmek
+- İçeriği kişiselleştirmek
+- Premium özellikleri sunmak
+
+Veri Paylaşımı
+Kişisel verileriniz satılmaz veya üçüncü taraflarla paylaşılmaz (zorunlu servisler hariç).
+
+Güvenlik
+Verilerin korunması için makul önlemler alınır.
+
+Haklarınız
+Verilerinizin silinmesini talep edebilirsiniz.
+
+İletişim
+E-posta: mgolcu00@gmail.com
